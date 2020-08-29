@@ -1,0 +1,7 @@
+{
+  "name": "typescript-for-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Delgadito-bamboo/typescript-for-javascript.git",
+  "license": "MIT"
+}
